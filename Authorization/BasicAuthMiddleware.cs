@@ -1,4 +1,3 @@
-
 namespace WebApi.Authorization;
 
 using System.Net.Http.Headers;
