@@ -29,4 +29,6 @@ var app = builder.Build();
     app.MapControllers();
 }
 
+
+// I need to find this out
 app.Run("http://localhost:4000");
